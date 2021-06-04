@@ -2,6 +2,7 @@
 MeveaIO is a library for building Mevea I/O connection with external Python. As the result, you'll get ```.pyd``` file allowing to use Mevea I/O dll for controlling Mevea simulation models and read simulation parameters.
 
 ## Requirements
+- Visual Studio Build Tools. You can download it here: https://visualstudio.microsoft.com/ru/visual-cpp-build-tools/.
 
 ## Installation
 ```console
